@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahmat
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently learning app test
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
