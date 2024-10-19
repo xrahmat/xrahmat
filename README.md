@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xrahmat
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning React JS
+- 👋 Hi, I’m Rahmat
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
